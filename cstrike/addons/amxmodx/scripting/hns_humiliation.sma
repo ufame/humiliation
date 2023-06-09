@@ -3,9 +3,7 @@
 #include <hamsandwich>
 
 new const HUMILIATION_SOUNDS[][] = {
-  //"humiliation/owned.wav"
-  "brohns/hmltn/gj.wav",
-  "brohns/hmltn/kudasai.wav"
+  "humiliation/owned.wav"
 }
 
 enum Settings {
