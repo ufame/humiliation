@@ -1,5 +1,9 @@
 # Humiliation | Owned | Head Splash
 
+<p align="center" width="100%">
+  <img src="https://dev-cs.ru/data/resource_icons/1/1609.jpg?1686378990">
+</p>
+
 TT can humiliate a player for CT by jumping on his head.\
 Designed for HNS servers.
 
